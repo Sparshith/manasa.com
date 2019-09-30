@@ -1,0 +1,24 @@
+body {
+    font-family: Lato;
+    background-color: #f5fff5;
+    background-image: url("images/background.svg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+card {
+    display:inline-block;
+}
+.card {
+    margin: 20px;
+    width: 21rem;
+}
+
+.header {
+    padding-top: 10px;
+    text-align: center;
+}
+
+.card-img-top {
+    max-height: 230px;
+}
