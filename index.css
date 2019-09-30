@@ -22,3 +22,9 @@ card {
 .card-img-top {
     max-height: 230px;
 }
+
+@media only screen and (max-width: 600px) {
+    .row {
+        margin: auto;
+    }
+}
